@@ -12,3 +12,5 @@
 \#\#\#\#\#\# This is an \<h6\> tag
   ###### \<h6\>
   
+![Markdown Cheat Sheet]
+(https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
