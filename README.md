@@ -12,5 +12,4 @@
 \#\#\#\#\#\# This is an \<h6\> tag
   ###### \<h6\>
   
-![Markdown Cheat Sheet]
-(https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+[Markdown Cheat Sheet](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/1931/gs.png)
