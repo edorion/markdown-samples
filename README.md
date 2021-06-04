@@ -6,9 +6,9 @@
 **bold**
 
 \# This is an \<h1\> tag
-  # <h1>
+  # \<h1\>
 \#\# This is an \<h2\> tag
-  ## <h2>
+  ## \<h2\>
 \#\#\#\#\#\# This is an \<h6\> tag
-  ###### <h6>
+  ###### \<h6\>
   
